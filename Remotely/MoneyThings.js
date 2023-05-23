@@ -14,8 +14,7 @@ TG反馈群：https://t.me/plus8889
 
 [rewrite_local]
 
-^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ url script-response-body https://raw.githubusercontent.com/wangsvven/QuantumltX/main/Remotely/MoneyThings.js?token=GHSAT0AAAAAACDAMFEFM4C65JYTYFOPAIEEZDM5KIA
-
+^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ url script-response-body https://raw.githubusercontent.com/wangsvven/QuantumltX/main/Remotely/MoneyThings.js
 [mitm] 
 
 hostname = api.revenuecat.com
