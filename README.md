@@ -1,1 +1,1 @@
-# -QuantumltX
+# QuantumltX
