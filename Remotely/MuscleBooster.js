@@ -1,6 +1,6 @@
 /******************************
 
-Muscle Booster(健身软件)
+Muscle Booster(健身软件)v2.24.1
 下载地址 https://apps.apple.com/cn/app/muscle-booster-%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83/id1446447749
 
 TG频道群：https://t.me/gjwj6
