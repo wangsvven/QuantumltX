@@ -7,7 +7,7 @@ TG频道群：https://t.me/gjwj6
 使用声明：此脚本仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
 *******************************
 [rewrite_local]
-^https:\/\/menscoach-api.asqq.io\/prod\/(user|check-receipt|subscription-restore) url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/MuscleBooster.js
+^https:\/\/menscoach-api.asqq.io\/prod\/(user|check-receipt|subscription-restore) url script-response-body https://raw.githubusercontent.com/wangsvven/QuantumltX/main/Remotely/MuscleBooster.js
 [mitm] 
 hostname = *menscoach*
 *******************************/
