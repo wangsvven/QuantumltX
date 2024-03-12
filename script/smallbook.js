@@ -8,7 +8,7 @@
 **************************************
 
 [rewrite_local]
-^https:\/\/umeecorn\.com\/notebook\/(loginedUser\/(info|tier|balance)|user\/(login|loginApple)) url script-response-body https://raw.githubusercontent.com/leey668/pyer/main/notebook.js
+^https:\/\/umeecorn\.com\/notebook\/(loginedUser\/(info|tier|balance)|user\/(login|loginApple)) url script-response-body https://raw.githubusercontent.com/wangsvven/QuantumltX/main/script/smallbook.js
 [mitm]
 hostname = umeecorn.com
 
