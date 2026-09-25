@@ -8,7 +8,7 @@
 */
 /*
 [rewrite_local]
-^https?:\/\/.*\/(user\/userInfo\/(get|getExtra|isJxtUser)|search\/(getOcrStatus|ocr2|mixPaper)|kaoShi\/.*|paper\/(home|topErrors|list)|user\/coupon\/getExpireInfo|mockExam\/config|document\/file|questions\/fetch) url script-response-body https://raw.githubusercontent.com/wangsvven/Loon/refs/heads/main/Scripts/ksb.js
+^https?:\/\/.*\/(user\/userInfo\/(get|getExtra|isJxtUser)|search\/(getOcrStatus|ocr2|mixPaper)|kaoShi\/.*|paper\/(home|topErrors|list)|user\/coupon\/getExpireInfo|mockExam\/config|document\/file|questions\/fetch) url script-response-body https://raw.githubusercontent.com/wangsvven/QuantumltX/refs/heads/main/script/ksb.js
 
 [mitm]
 hostname = ksbapi.jxedt.com, ge-api.jxedt.com, userapi.ksedt.com
